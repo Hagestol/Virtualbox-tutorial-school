@@ -10,11 +10,17 @@
 VirtualBox [download](https://download.virtualbox.org/virtualbox/6.1.14/VirtualBox-6.1.14-140239-OSX.dmg)
 
 ![DMG](https://i.loli.net/2020/09/10/s9y5Q4SedBHxPgL.png)
+
 > Open with DiskImageMounter and double click VirtualBox.pkg
+
 ![pkg](https://i.loli.net/2020/09/10/BHGfNrvndWjpl2C.png)
+
 > press continue and then install, in the popup type in your password to confirm installation of program. you should then see the installation was successful
+
 ![continue](https://i.loli.net/2020/09/10/vLOP4Sr8RKb52mj.png)
+
 ![install](https://i.loli.net/2020/09/10/n186EdoyCRUFbeD.png)
+
 ![successful](https://i.loli.net/2020/09/10/ZY63cBaE1vqeQd2.png)
 
 
