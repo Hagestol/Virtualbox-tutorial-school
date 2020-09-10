@@ -69,3 +69,6 @@ after you choose your iso file it should look like this:
 
 ![User](https://i.loli.net/2020/09/10/yStVGCzmhgEHNPs.png)
 
+> Now you just wait for the installation to finish and press restart now
+
+![restart](https://i.loli.net/2020/09/10/fyTXh1FWI5uxCqd.png)
