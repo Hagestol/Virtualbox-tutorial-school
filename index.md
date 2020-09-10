@@ -13,4 +13,4 @@ Tutorial for setup and use of virtualbox school project
 
 > Press next and then select create a virtual hard disk now.
 
-![Virtual hard disk](https://i.loli.net/2020/09/10/tIZsHFq71EOkLd3.png)
+![Virtual hard disk](https://i.loli.net/2020/09/10/3suZI9JmH4W5jak.png)
