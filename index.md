@@ -1,6 +1,6 @@
 # Table of content
-1. [VirtualBox Installation](#Virtualbox installation)
-2. [OS X Installation](#Virtualbox installation)
+1. [VirtualBox Installation](#Virtualbox-installation)
+2. [OS X Installation](#Virtualbox-installation)
 
 
 # Virtualbox installation
