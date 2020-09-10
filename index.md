@@ -48,7 +48,19 @@ VirtualBox [download](https://download.virtualbox.org/virtualbox/6.1.14/VirtualB
 ![successful](https://i.loli.net/2020/09/10/ZY63cBaE1vqeQd2.png)
 
 # Installing VirtualBox on Ubuntu
-> Coming Soon...
+> Press Ctrl-Alt-T to open terminal and enter the following:
+
+```
+sudo apt-get update
+```
+
+```
+sudo apt-get install virtualbox
+```
+
+```
+sudo apt-get install virtualbox—ext–pack
+```
 
 
 # Virtualbox Tutorial
