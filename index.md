@@ -12,6 +12,5 @@ Tutorial for setup and use of virtualbox school project
 ![VB RAM](https://i.loli.net/2020/09/10/uDzyrFacSQCH5h9.png)
 
 
-```html
+
  <img src="https://i.loli.net/2020/09/10/uDzyrFacSQCH5h9.png" style="width:1200px;height:1200px;"> 
-```
