@@ -1,6 +1,6 @@
 # Virtualbox installation
 
-> start by going to [VirtualBox](https://www.virtualbox.org/) press download and select the download for your system  **VirtualBox 6.1.14 platform packages**
+> start by going to [VirtualBox](https://www.virtualbox.org/) press download and select the download for your system <br/> **VirtualBox 6.1.14 platform packages**
 - [Windows](https://download.virtualbox.org/virtualbox/6.1.14/VirtualBox-6.1.14-140239-Win.exe) 
 - [OS X](https://download.virtualbox.org/virtualbox/6.1.14/VirtualBox-6.1.14-140239-OSX.dmg)
 - [Linux](https://www.virtualbox.org/wiki/Linux_Downloads)
