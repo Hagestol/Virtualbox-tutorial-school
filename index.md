@@ -16,17 +16,17 @@
 
 >Press next choose install location and press next yes and then install press yes on the popup
 
-![exe](https://i.postimg.cc/4y8JkM8p/image.png)(https://postimg.cc/8f68LygC)
+![exe](https://i.postimg.cc/4y8JkM8p/image.png)
 
-![install](https://i.postimg.cc/QtQQbgf2/image.png)(https://postimg.cc/0MNK5SRn)
+![install](https://i.postimg.cc/QtQQbgf2/image.png)
 
-![next](https://i.postimg.cc/44K7sQvs/image.png)(https://postimg.cc/s1rDJS0N)
+![next](https://i.postimg.cc/44K7sQvs/image.png)
 
-![image.png](https://i.postimg.cc/8P4VYqF5/image.png)(https://postimg.cc/vc4jg2tF)
+![image.png](https://i.postimg.cc/8P4VYqF5/image.png)
 
-![image.png](https://i.postimg.cc/kXXH2D4J/image.png)(https://postimg.cc/MXN546VN)
+![image.png](https://i.postimg.cc/kXXH2D4J/image.png)
 
-![next](https://i.postimg.cc/XJLZqsHY/image.png)(https://postimg.cc/YG42yzB5)
+![next](https://i.postimg.cc/XJLZqsHY/image.png)
 
 > Press finish and then the program should launch by itself
 
