@@ -26,3 +26,20 @@ Tutorial for setup and use of virtualbox school project
 > You can now select the ammount of storage you want to allocate to the virtual machine, since the virtual machine has storage dynamically allocated it will only use the ammount of space you selected when you use it. That means if you select 20GB that is a max limit and the machine itself will use less than 20GB space untill you fill it up.
 
 ![Storage](https://i.loli.net/2020/09/10/6dWo8lSpw5eh9qr.png)
+
+> After you press create you select settings general advanced and put shared clipboard to bidirectional so that you can copy and paste stuff from your pc to the virtual computer and the other way around.
+
+![Settigns](https://i.loli.net/2020/09/10/r9HLdPuVUjaC3Mi.png)
+
+> Then go to system and set CPU to 2.
+
+![System](https://i.loli.net/2020/09/10/9IG3BEkTACDL7Sx.png)
+
+> Press ok and then start
+
+![Start](https://i.loli.net/2020/09/10/iCG7NBgklDoEcTm.png)
+
+> Press the small folder icon and choose add then select your iso file (Im gonna use Ubuntu for this but it can be any operating system) [Ubuntu](https://ubuntu.com/download/desktop)
+after you choose your iso file it should look like this:
+
+![ISO](https://i.loli.net/2020/09/10/9G7YJFk3yRcbtZ8.png)
