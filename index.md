@@ -5,6 +5,9 @@
 - [OS X](https://download.virtualbox.org/virtualbox/6.1.14/VirtualBox-6.1.14-140239-OSX.dmg)
 - [Linux](https://www.virtualbox.org/wiki/Linux_Downloads)
 
+# Installing Virtualbox on Windows
+> Coming Soon...
+
 
 # Installing VirtualBox on OS X
 VirtualBox [download](https://download.virtualbox.org/virtualbox/6.1.14/VirtualBox-6.1.14-140239-OSX.dmg)
@@ -22,6 +25,9 @@ VirtualBox [download](https://download.virtualbox.org/virtualbox/6.1.14/VirtualB
 ![install](https://i.loli.net/2020/09/10/n186EdoyCRUFbeD.png)
 
 ![successful](https://i.loli.net/2020/09/10/ZY63cBaE1vqeQd2.png)
+
+# Installing VirtualBox on Ubuntu
+> Coming Soon...
 
 
 # Virtualbox Tutorial
