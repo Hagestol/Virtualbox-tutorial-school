@@ -9,4 +9,4 @@ Tutorial for setup and use of virtualbox school project
 
 > After you press next you chooce the ammaount of ram, 4000mb will be more than enough.
 
-! [VB RAM](https://i.loli.net/2020/09/10/uDzyrFacSQCH5h9.png)
+![VB RAM](https://i.loli.net/2020/09/10/uDzyrFacSQCH5h9.png)
