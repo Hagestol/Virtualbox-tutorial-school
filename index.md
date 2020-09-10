@@ -12,7 +12,8 @@
 - [Linux](https://www.virtualbox.org/wiki/Linux_Downloads)
 
 # Installing Virtualbox on Windows
-> Coming Soon...
+> VirtualBox [Download](https://download.virtualbox.org/virtualbox/6.1.14/VirtualBox-6.1.14-140239-Win.exe) 
+![exe](https://ibb.co/BZR1QYn)
 
 
 # Installing VirtualBox on OS X
