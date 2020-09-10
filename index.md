@@ -1,4 +1,4 @@
-<h1 class="no_toc">Table of content</h1>
+<h1 class="no_toc">Table of contents</h1>
 
 * TOC
 {:toc}
