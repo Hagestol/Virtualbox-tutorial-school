@@ -13,8 +13,16 @@
 
 # Installing Virtualbox on Windows
 > VirtualBox [Download](https://download.virtualbox.org/virtualbox/6.1.14/VirtualBox-6.1.14-140239-Win.exe) 
+
+>Press next choose install location and press next yes and then install press yes on the popup
+
 ![exe](https://i.postimg.cc/4y8JkM8p/image.png)](https://postimg.cc/8f68LygC)
 
+![install](https://i.postimg.cc/QtQQbgf2/image.png)](https://postimg.cc/0MNK5SRn)
+
+![image.png](https://i.postimg.cc/XJLZqsHY/image.png)](https://postimg.cc/YG42yzB5)
+
+> Press finish and then the program should launch by itself
 
 # Installing VirtualBox on OS X
 VirtualBox [download](https://download.virtualbox.org/virtualbox/6.1.14/VirtualBox-6.1.14-140239-OSX.dmg)
