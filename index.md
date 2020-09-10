@@ -43,3 +43,11 @@ Tutorial for setup and use of virtualbox school project
 after you choose your iso file it should look like this:
 
 ![ISO](https://i.loli.net/2020/09/10/9G7YJFk3yRcbtZ8.png)
+
+> Press choose and then start
+
+![START](https://i.loli.net/2020/09/10/JAYigfNw7Ga1tkq.png)
+
+> Now you choose Install Ubuntu
+
+![Install](https://i.loli.net/2020/09/10/DIJWrkS4Htj1iTm.png)
