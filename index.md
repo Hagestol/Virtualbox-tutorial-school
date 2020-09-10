@@ -1,6 +1,6 @@
 # Table of content
 
-{:toc}
+
 
 
 # Virtualbox installation
