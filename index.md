@@ -39,7 +39,7 @@ Tutorial for setup and use of virtualbox school project
 
 ![Start](https://i.loli.net/2020/09/10/iCG7NBgklDoEcTm.png)
 
-> Press the small folder icon and choose add then select your iso file (Im gonna use Ubuntu for this but it can be any operating system) [Ubuntu](https://ubuntu.com/download/desktop)
+> Press the small folder icon and choose add then select your iso file (Im gonna use [Ubuntu](https://ubuntu.com/download/desktop) for this but it can be any operating system) 
 after you choose your iso file it should look like this:
 
 ![ISO](https://i.loli.net/2020/09/10/9G7YJFk3yRcbtZ8.png)
