@@ -1,9 +1,6 @@
 # Table of content
-- [VirtualBox Installation](#Virtualbox-installation)
-  - [Windows](#Installing-Virtualbox-on-Windows)
-  - [OS X](#Installing-VirtualBox-on-OS-X)
-  - [Ubuntu](#Installing-VirtualBox-on-Ubuntu)
 
+* TOC {:toc}
 
 
 # Virtualbox installation
