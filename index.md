@@ -51,3 +51,21 @@ after you choose your iso file it should look like this:
 > Now you choose Install Ubuntu
 
 ![Install](https://i.loli.net/2020/09/10/DIJWrkS4Htj1iTm.png)
+
+> Select your language for the keyboard layout
+
+![Keyboard](https://i.loli.net/2020/09/10/wqUkP2RXfhmQogl.png)
+
+![install](https://i.loli.net/2020/09/10/ix2yuYnlDBCH4VT.png)
+![Install](https://i.loli.net/2020/09/10/mdj2no4F81rvhGR.png)
+
+> Press install now and if there is a popup press continue
+
+> Select your time zone and press continue
+
+![Time Zone](https://i.loli.net/2020/09/10/PmAzTJWfcGuXr8i.png)
+
+> Now you just fill in your name choose the computers name and the name of your user select a password and press continue
+
+![User](https://i.loli.net/2020/09/10/yStVGCzmhgEHNPs.png)
+
