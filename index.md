@@ -1,9 +1,3 @@
-# Table of content
-1. [VirtualBox Installation](#Virtualbox-installation)
-2. [OS X Installation](#Virtualbox-installation)
-3. [Tutorial](#Virtualbox-Tutorial)
-
-
 # Virtualbox installation
 
 > start by going to [VirtualBox](https://www.virtualbox.org/) press download and select the download for your system <br/> **VirtualBox 6.1.14 platform packages**
