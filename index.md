@@ -13,7 +13,7 @@
 
 # Installing Virtualbox on Windows
 > VirtualBox [Download](https://download.virtualbox.org/virtualbox/6.1.14/VirtualBox-6.1.14-140239-Win.exe) 
-![exe](https://postimg.cc/8f68LygC)
+![exe](https://i.postimg.cc/4y8JkM8p/image.png)](https://postimg.cc/8f68LygC)
 
 
 # Installing VirtualBox on OS X
