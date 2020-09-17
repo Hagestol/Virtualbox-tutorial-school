@@ -138,7 +138,7 @@ after you choose your iso file it should look like this:
 
 
 # Uninstalling VirtualBox OS X
-> There is a uninstallation tool included in the VirtualBox.dmg found ![Here](https://download.virtualbox.org/virtualbox/6.1.14/VirtualBox-6.1.14-140239-OSX.dmg) <br/>
+> There is a uninstallation tool included in the VirtualBox.dmg found - [here](https://download.virtualbox.org/virtualbox/6.1.14/VirtualBox-6.1.14-140239-OSX.dmg) <br/>
 You want to right click Virtualbox_Uninstall.tool and press Open
 
 ![uninstall tool](https://i.loli.net/2020/09/17/c6Y5ZQBIMjtqnyG.png)
