@@ -169,3 +169,6 @@ brew cask install homebrew/cask-versions/virtualbox-beta
 ```
 brew cask install homebrew/cask-versions/virtualbox-extension-pack-beta
 ```
+
+
+![Pass](https://i.loli.net/2020/09/17/uvgGRfsTbo3qy4W.png)
