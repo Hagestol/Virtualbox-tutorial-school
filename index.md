@@ -146,7 +146,7 @@ You want to right click Virtualbox_Uninstall.tool and press Open
 
 > You want to select Open on the popup and then type Yes twice in  the terminal window that opened followed by your admin password now you just wait a little while and it should say Process completed
 
-![Open](https://i.loli.net/2020/09/17/dkGRHxqjLFO5oYc.png)
+![Open](https://i.loli.net/2020/09/17/dkGRHxqjLFO5oYc.png) <br/>
 ![Yes](https://i.loli.net/2020/09/17/rXqoasKW7OGb5yL.png)
 ![Yes](https://i.loli.net/2020/09/17/Wf9Tv2OH1KVNL6d.png)
 ![admin pass](https://i.loli.net/2020/09/17/TLn9HrMtSbKfCmw.png)
