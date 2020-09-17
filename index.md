@@ -135,3 +135,19 @@ after you choose your iso file it should look like this:
 > Now you just wait for the installation to finish and press restart now
 
 ![restart](https://i.loli.net/2020/09/10/fyTXh1FWI5uxCqd.png)
+
+
+# Uninstalling VirtualBox OS X
+> There is a uninstallation tool included in the VirtualBox.dmg found ![Here](https://download.virtualbox.org/virtualbox/6.1.14/VirtualBox-6.1.14-140239-OSX.dmg) <br/>
+You want to right click Virtualbox_Uninstall.tool and press Open
+
+![uninstall tool](https://i.loli.net/2020/09/17/c6Y5ZQBIMjtqnyG.png)
+![press open](https://i.loli.net/2020/09/17/L6G7Jos1cMw4xeY.png)
+
+> You want to select Open on the popup and then type Yes twice in  the terminal window that opened followed by your admin password now you just wait a little while and it should say Process completed
+
+![Open](https://i.loli.net/2020/09/17/dkGRHxqjLFO5oYc.png)
+![Yes](https://i.loli.net/2020/09/17/rXqoasKW7OGb5yL.png)
+![Yes](https://i.loli.net/2020/09/17/Wf9Tv2OH1KVNL6d.png)
+![admin pass](https://i.loli.net/2020/09/17/TLn9HrMtSbKfCmw.png)
+![complete](https://i.loli.net/2020/09/17/rHxztREDkcqupOh.png)
