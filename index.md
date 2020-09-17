@@ -151,3 +151,21 @@ You want to right click Virtualbox_Uninstall.tool and press Open
 ![Yes](https://i.loli.net/2020/09/17/Wf9Tv2OH1KVNL6d.png)
 ![admin pass](https://i.loli.net/2020/09/17/TLn9HrMtSbKfCmw.png)
 ![complete](https://i.loli.net/2020/09/17/rHxztREDkcqupOh.png)
+
+
+# Installing VirtualBox Beta OS X
+> start by installing [Homebrew](https://brew.sh/) if you dont already have it, open the terminal and run the following command
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
+
+> When you have Homebrew up and running you use the following 2 commands
+
+```
+brew cask install homebrew/cask-versions/virtualbox-beta
+```
+
+```
+brew cask install homebrew/cask-versions/virtualbox-extension-pack-beta
+```
